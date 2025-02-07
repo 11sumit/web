@@ -70,4 +70,18 @@
     margin:20px auto;
   }
 
+  footer{
+    background-color: black;
+    border-radius:10px;
+    text-align:center;
+    color:#ffffff;
+    padding:10px;
+    max-width:70%;
+    margin:20px auto;
+  }
+  footer a{
+    color:darkcyan;
+    
+  }
+
   
